@@ -1,0 +1,6 @@
+tugas 1
+1. buat form data (bebas), dgn menggunakan 2 cara koneksi:
+	- koneksi dari form konf koneksi
+	- koneksi dari ODBC (DSN)
+2. lengkapi dengan button default
+3. Laporkan tanggal 16 mei 2017
